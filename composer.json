@@ -1,0 +1,12 @@
+{
+    "name": "nozomi/php-line-login",
+    "authors": [
+        {
+            "name": "nozomi",
+            "email": "27364932+nozomi1102@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "league/oauth2-client": "^2.3"
+    }
+}
